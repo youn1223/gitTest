@@ -2,7 +2,7 @@ package com.spring.ex;
 
 public class Apple {
 
-	//mymellania°¡ ¼öÁ¤ÇÔ
+	//mymellaniaìˆ˜ì •í•¨
 	//youn1223  
-	// mymellania°¡ Ãß°¡ÇÔ
+	// mymellaniaì¶”ê°€í•¨
 }  

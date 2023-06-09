@@ -1,6 +1,7 @@
 package com.spring.ex;
 
 public class Banana {
-	// mymellania°¡ Ãß°¡ÇÔ
-	// mymellania°¡ Ãß°¡ÇÔ
+	// mymellania ì¶”ê°€í•¨
+	// mymellania ì¶”ê°€í•¨
 }
+  
